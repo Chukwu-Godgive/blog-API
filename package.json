@@ -1,0 +1,22 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "Backend blog API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chukwu-Godgive/blog-API.git"
+  },
+  "author": "Chukwu Godgive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chukwu-Godgive/blog-API/issues"
+  },
+  "homepage": "https://github.com/Chukwu-Godgive/blog-API#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
