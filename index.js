@@ -5,8 +5,9 @@ const express = require("express")
 const app = express();
 
 // routes 
-app.get("/", (res, req) => {
-    res.send("API's Loading ....")
+app.get("/", (req, res) => {
+    res.send("API's Loading .... Please still working on it")
+    res.write
 });
 
 // setup port 
